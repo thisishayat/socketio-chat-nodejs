@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc7ff52d-9810-4a25-b9dd-42e8fb1743b4" name="Default" comment="" />
+    <list default="true" id="bc7ff52d-9810-4a25-b9dd-42e8fb1743b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.html" afterPath="$PROJECT_DIR$/hello.html" />
+    </list>
     <ignored path="nodetest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -67,8 +70,8 @@
       <file leaf-file-name="sockettest.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sockettest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="4" selection-start-column="33" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,8 +80,8 @@
       <file leaf-file-name="hello.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="159" column="19" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="19" />
+            <state relative-caret-position="174">
+              <caret line="299" column="0" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -87,7 +90,7 @@
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1473629976358" expanded="true" signature="4339:4365" placeholder="..." />
+                <marker date="1513166105237" expanded="true" signature="4343:4369" ph="..." />
               </folding>
             </state>
           </provider>
@@ -123,6 +126,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -139,19 +145,20 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="1421" />
+    <option name="y" value="24" />
+    <option name="width" value="1311" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -165,7 +172,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -178,20 +185,26 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -241,14 +254,15 @@
       <workItem from="1473528563877" duration="10934000" />
       <workItem from="1473584004619" duration="3316000" />
       <workItem from="1473617446777" duration="12609000" />
+      <workItem from="1513160711324" duration="2060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30426000" />
+    <option name="totallyTimeSpent" value="32486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="1421" y="24" width="1311" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22488755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -288,6 +302,81 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hellonode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eventemmit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streamtest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressnode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockettest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="4" selection-start-column="33" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513166105237" expanded="true" signature="4343:4369" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writeMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hellonode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -344,7 +433,7 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1473629976358" expanded="true" signature="4339:4365" placeholder="..." />
+            <marker date="1513166105237" expanded="true" signature="4343:4369" ph="..." />
           </folding>
         </state>
       </provider>
@@ -416,9 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#6#88#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,16 +542,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sockettest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="4" selection-start-column="33" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="159" column="19" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="19" />
+        <state relative-caret-position="174">
+          <caret line="299" column="0" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -474,7 +560,7 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1473629976358" expanded="true" signature="4339:4365" placeholder="..." />
+            <marker date="1513166105237" expanded="true" signature="4343:4369" ph="..." />
           </folding>
         </state>
       </provider>
