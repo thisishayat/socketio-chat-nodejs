@@ -160,7 +160,7 @@
         var options = { hour12: true };
 
         jQuery(function($){
-            var socket = io.connect('http://192.168.101.4:3000');
+            var socket = io.connect('http://localhost:3000');
             $("#chat-form").submit(function (e) {
                 e.preventDefault();
                 console.log($("#chat-form .send-message").val());
