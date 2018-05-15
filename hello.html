@@ -186,8 +186,7 @@
                     var obj = JSON.parse(response);
                     console.log(obj);
                     if(obj.status == 2000){
-                        socket.emit(2,$("#chat-form .send-message").val());
-                        console.log('send msg success');
+
                         $("#chat-form .send-message").val('');
                     }
                 });
@@ -195,7 +194,7 @@
 
             });
 
-            socket.on('thread_id',function (data) {
+            socket.on(2,function (data) {
                 var messsage_box = '';
                 messsage_box += ' <div class="media msg">';
                 messsage_box += '<a class="pull-left" href="#">';
